@@ -1,6 +1,6 @@
 # Presentation
 
-This GitHub presents the resources used in the study to appear in *Morphology*, "What's in an agent? A distributional semantics approach to agent nouns in French" (Huyghe and Wauquier, to appear).
+This GitHub presents the resources used in the study published in *Morphology*, "What's in an agent? A distributional semantics approach to agent nouns in French" (Huyghe and Wauquier, 2020).
 
 Resources are given in the three following repositories:
 * data
